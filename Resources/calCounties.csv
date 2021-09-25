@@ -1,0 +1,59 @@
+county,county_ascii,county_full,county_fips,state_id,state_name,lat,lng,population
+Los Angeles,Los Angeles,Los Angeles County,6037,CA,California,34.3207,-118.2248,10081570
+San Diego,San Diego,San Diego County,6073,CA,California,33.0341,-116.7353,3316073
+Orange,Orange,Orange County,6059,CA,California,33.703,-117.7611,3168044
+Riverside,Riverside,Riverside County,6065,CA,California,33.7437,-115.9938,2411439
+San Bernardino,San Bernardino,San Bernardino County,6071,CA,California,34.8414,-116.1784,2149031
+Santa Clara,Santa Clara,Santa Clara County,6085,CA,California,37.2318,-121.6951,1927470
+Alameda,Alameda,Alameda County,6001,CA,California,37.6469,-121.8889,1656754
+Sacramento,Sacramento,Sacramento County,6067,CA,California,38.4493,-121.3443,1524553
+Contra Costa,Contra Costa,Contra Costa County,6013,CA,California,37.9191,-121.9278,1142251
+Fresno,Fresno,Fresno County,6019,CA,California,36.7582,-119.6493,984521
+Kern,Kern,Kern County,6029,CA,California,35.3429,-118.7299,887641
+San Francisco,San Francisco,San Francisco County,6075,CA,California,37.7562,-122.443,874961
+Ventura,Ventura,Ventura County,6111,CA,California,34.4565,-119.0836,847263
+San Mateo,San Mateo,San Mateo County,6081,CA,California,37.4229,-122.329,767423
+San Joaquin,San Joaquin,San Joaquin County,6077,CA,California,37.9348,-121.2714,742603
+Stanislaus,Stanislaus,Stanislaus County,6099,CA,California,37.5591,-120.9977,543194
+Sonoma,Sonoma,Sonoma County,6097,CA,California,38.5283,-122.8874,499772
+Tulare,Tulare,Tulare County,6107,CA,California,36.2201,-118.8005,461898
+Santa Barbara,Santa Barbara,Santa Barbara County,6083,CA,California,34.6729,-120.0165,444829
+Solano,Solano,Solano County,6095,CA,California,38.27,-121.9329,441829
+Monterey,Monterey,Monterey County,6053,CA,California,36.2172,-121.2392,433410
+Placer,Placer,Placer County,6061,CA,California,39.0635,-120.7175,385512
+San Luis Obispo,San Luis Obispo,San Luis Obispo County,6079,CA,California,35.3871,-120.4045,282165
+Santa Cruz,Santa Cruz,Santa Cruz County,6087,CA,California,37.0562,-122.0018,273962
+Merced,Merced,Merced County,6047,CA,California,37.1919,-120.7177,271382
+Marin,Marin,Marin County,6041,CA,California,38.0734,-122.7234,259943
+Butte,Butte,Butte County,6007,CA,California,39.6669,-121.6007,225817
+Yolo,Yolo,Yolo County,6113,CA,California,38.6866,-121.9016,217352
+El Dorado,El Dorado,El Dorado County,6017,CA,California,38.7787,-120.5247,188563
+Imperial,Imperial,Imperial County,6025,CA,California,33.0395,-115.3654,180701
+Shasta,Shasta,Shasta County,6089,CA,California,40.7637,-122.0405,179212
+Madera,Madera,Madera County,6039,CA,California,37.218,-119.7627,155433
+Kings,Kings,Kings County,6031,CA,California,36.0753,-119.8155,150691
+Napa,Napa,Napa County,6055,CA,California,38.5065,-122.3305,139623
+Humboldt,Humboldt,Humboldt County,6023,CA,California,40.6993,-123.8756,135940
+Nevada,Nevada,Nevada County,6057,CA,California,39.3014,-120.7685,99244
+Sutter,Sutter,Sutter County,6101,CA,California,39.0346,-121.6948,96109
+Mendocino,Mendocino,Mendocino County,6045,CA,California,39.4402,-123.3915,87224
+Yuba,Yuba,Yuba County,6115,CA,California,39.269,-121.3513,76360
+Lake,Lake,Lake County,6033,CA,California,39.0996,-122.7532,64195
+Tehama,Tehama,Tehama County,6103,CA,California,40.1256,-122.2341,63912
+San Benito,San Benito,San Benito County,6069,CA,California,36.6057,-121.075,60376
+Tuolumne,Tuolumne,Tuolumne County,6109,CA,California,38.0276,-119.9548,54045
+Calaveras,Calaveras,Calaveras County,6009,CA,California,38.2046,-120.5541,45514
+Siskiyou,Siskiyou,Siskiyou County,6093,CA,California,41.5927,-122.5404,43468
+Amador,Amador,Amador County,6005,CA,California,38.4464,-120.6511,38429
+Lassen,Lassen,Lassen County,6035,CA,California,40.6736,-120.5943,30818
+Glenn,Glenn,Glenn County,6021,CA,California,39.5982,-122.392,27976
+Del Norte,Del Norte,Del Norte County,6015,CA,California,41.7431,-123.8972,27495
+Colusa,Colusa,Colusa County,6011,CA,California,39.1775,-122.237,21454
+Plumas,Plumas,Plumas County,6063,CA,California,40.0046,-120.8385,18660
+Inyo,Inyo,Inyo County,6027,CA,California,36.5111,-117.4107,17977
+Mariposa,Mariposa,Mariposa County,6043,CA,California,37.5815,-119.9054,17420
+Mono,Mono,Mono County,6051,CA,California,37.9391,-118.8868,14310
+Trinity,Trinity,Trinity County,6105,CA,California,40.6507,-123.1126,12700
+Modoc,Modoc,Modoc County,6049,CA,California,41.5898,-120.725,8907
+Sierra,Sierra,Sierra County,6091,CA,California,39.5803,-120.516,3040
+Alpine,Alpine,Alpine County,6003,CA,California,38.5972,-119.8207,1039

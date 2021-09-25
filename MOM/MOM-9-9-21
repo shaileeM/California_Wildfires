@@ -1,0 +1,45 @@
+MOM - 9/9/
+
+ERD notes: Dhivya
+------------
+1. Add MAJOR_INCIDENT column to FIRE_INCIDENTS
+2. Weather columns for FIRE_LOCATIONS 
+	- Humidity
+	- Min Temp
+	- Max Temp
+	-Wind
+3. Add cause description to FIRE_FACTS table
+4. Populate mockup data in table 	
+
+DB connection - Taravat
+---------------
+1. Change the pandas code for appending data to postgrestable
+2. PPT - Done
+
+ML : Shailee
+---
+1. Read data from DB 
+2. Output labels for input data
+
+GITHUB : Anu
+--------- 
+Create Repo & branches
+
+Open ques to TAs 
+--------------------
+1. What should be the branch name ? - Name of module working or individual name 
+	Individual name
+	
+2. Does branch follow same folder structure format like main?
+	Yes
+	
+3. Person doing X role should do branch merge with main ? In that case, if the person is not the repo owner can  he/she do it ?
+	Anyone who is part of the repo with collaborator role can merge the branch.
+	
+4. If we are using Tableau for visualization , does it have to get connected to Db? With  free version is it possible? What are the other options?
+	Didnt clarify on this.
+	
+5. AWS for DB ? - Explain about our process.
+	TA suggested using local schema with same db / schema name for the code to work. Using AWS instance adds more complexity. 
+	
+6. Sample data that mimics the expected final database structure or schema

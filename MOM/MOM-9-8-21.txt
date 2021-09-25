@@ -1,0 +1,49 @@
+Agenda :
+
+Datasets 
+
+California_fire_incidents.csv(kaggle): Data available from 2013 - 2019
+Acres burned : Common
+Archive year : Common
+Counties
+Fire Start time
+Extinguished time
+Injuries
+Latitude
+Longitude
+Location
+Name of Fire : Common
+Contained
+Structures Damaged/Structures Destroyed
+  Structures Evacuated
+ StructuresThreatened
+
+California_Fire_perimeters.csv(CA Gov website) : Data available from 1878 - 2020
+GeoJson data also available for this data
+Year
+Name
+Alarm date(fire start)
+Cont_date( fire end)
+Cause
+Shape length
+Shape Area
+Gis_Acres
+
+How do we merge
+Do we need weather data ?
+Open weather Api does not allow to access history free of cost
+
+Any other idea ?
+Check google map Api
+
+Python library : MeteoStat
+
+Assign roles
+ 
+ML :
+Features :
+What to predict : 
+How long it takes to contain the fire?
+When will the fire breakout?
+Which county are more prone in?
+Which county are more prone in?

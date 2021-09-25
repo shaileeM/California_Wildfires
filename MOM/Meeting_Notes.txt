@@ -1,0 +1,55 @@
+SECOND DELIVERABLE - DASHBOARD
+-------------------------------
+A blueprint for the dashboard is created and includes all of the following:
+
+Storyboard on a Google Slide(s)
+Description of the tool(s) that will be used to create the final dashboard
+Description of interactive element(s)
+
+
+SAMPLE:
+---------
+1. Add gitignore to repo.
+
+2. Can we push some ML data to DB ? Below item is added as part dashboard. 
+	Data (images or report) from the machine learning task
+
+
+	
+Questions to teaching team :
+------------------------------
+1. If we choose Tableau, we can't connect to DB in public version. Shall we work with exported csv files from DB? - Yes
+2. How to incorporate images from initial analysis developed using other visualization tool to final dashboard? - screenshots
+3. What is the final deliverable? - Google storyboard or Tableau dashboard link.  - Ppt with dashbaord link
+4. Do we need AWS RDS instance to host the db ? - We can host towards end of project for additional exp.
+5. ML question - Multi variable regression.
+
+
+To - do
+-----------
+
+1. Data processing - Anu
+	Cleanup the data, fix the missing data issue in DB, Update latitude, longitude columns with correct data.
+		1. CAUSE_ID is null in FIRE_INCIDENTS table for which CAUSE_DESCRIPTION has values.
+	
+			SELECT CAUSE_ID,CAUSE_DESCRIPTION FROM FIRE_INCIDENTS 
+			WHERE CAUSE_ID IS NULL;
+
+		2. FIRE_LOCATIONS table has less record than FIRE_INCIDENTS & FIRE_IMPACTS. Missing 76 records 
+			SELECT * FROM FIRE_INCIDENTS WHERE
+			FIRE_NAME NOT IN  (SELECT FIRE_NAME FROM FIRE_LOCATIONS);
+			
+2. 	Tableau - Tara - build 1 report.
+
+3. ML - Add pressure, Increase accuracy, Change features.
+
+4. Initial analysis - Shailee - 
+
+-----------
+Doubts:
+
+1. Google slides storyboard is like what Dhivya has done, we shall present a storyboard of what our dashboard is going to look like.
+
+2. Initial analysis: trying to plot a column of interest and check the outliers and see if there is any constraints that we might face in the future and we should be aware of.
+
+3. Images of initial analysis and Machine learning should be presented in tableau, either by importing image or data as a csv file to plot it which is more professional, this is something that we must speak about tomorrow.
